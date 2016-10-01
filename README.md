@@ -6,7 +6,7 @@ gExploreFTP builds on a [C# FTP Server](http://www.codeguru.com/csharp/csharp/cs
 
 ## Requirements
 
-Requires the [ESENT Managed Interface](http://managedesent.codeplex.com/) to build.
+Requires the [ESENT Managed Interface](http://managedesent.codeplex.com/) to build. The runtimes are included in the References directory.
 
 ## License
 
