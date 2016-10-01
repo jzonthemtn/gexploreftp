@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gExploreFTP", "gExploreFTPUI\gExploreFTP.csproj", "{89BB66A0-8A0B-46E9-9B14-03433B529BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gExploreFTP.FTP", "gExploreFTP.FTP\gExploreFTP.FTP.csproj", "{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ASP|Any CPU = ASP|Any CPU
+		ASP|Mixed Platforms = ASP|Mixed Platforms
+		ASP|x86 = ASP|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.ASP|Any CPU.ActiveCfg = Release|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.ASP|Any CPU.Build.0 = Release|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.ASP|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.ASP|Mixed Platforms.Build.0 = Release|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.ASP|x86.ActiveCfg = Release|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{89BB66A0-8A0B-46E9-9B14-03433B529BCB}.Release|x86.ActiveCfg = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.ASP|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.ASP|Any CPU.Build.0 = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.ASP|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.ASP|Mixed Platforms.Build.0 = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.ASP|x86.ActiveCfg = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CDF94EEB-2EDC-4CB2-A721-046B1D5ECBBE}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
